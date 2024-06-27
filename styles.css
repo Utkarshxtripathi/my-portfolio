@@ -65,7 +65,7 @@ section {
 }
 
 #about img.profile-pic {
-    width: 300px; /* Reduced size for better balance */
+    width: 300px; 
     height: 300px;
     border-radius: 50%;
     border: 5px solid #000000; /* White */
@@ -79,7 +79,7 @@ section {
 }
 
 #about h2 {
-    font-size: 2.5rem; /* Increased size for better prominence */
+    font-size: 2.5rem; 
     margin: 0.5rem 0;
     color: #000000; /* White */
 }
